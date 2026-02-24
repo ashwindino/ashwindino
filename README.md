@@ -47,16 +47,7 @@ I'm a passionate **Application Developer** and **Software Engineer** with a stro
 
 ---
 
-## 📊 GitHub Stats
-![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwindino&show_icons=true&theme=dark)
-
----
-
 ## 💼 How to Reach Me
 - **LinkedIn:** [linkedin.com/in/ashwin](https://www.linkedin.com/in/ashwin-dino/)
 - **Email:** [ashwindino66@gmail.com]
 - **GitHub:** [@ashwindino](https://github.com/ashwindino)
-
----
-
-**"Code is poetry written in logic."** ✨
