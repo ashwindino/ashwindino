@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate **Application Developer** and **Software Engineer** with a strong interest in building scalable, efficient applications. I'm actively seeking **Information Technology** roles where I can contribute my skills and grow professionally.
 
-**Location:** Nagercoil, Tamil Nadu, India
+**Location:** Nagercoil, Tamil Nadu
 **Email:** [ashwindino66@gmail.com]
 **LinkedIn:** [linkedin.com/in/ashwin](https://www.linkedin.com/in/ashwin-dino/)
 
