@@ -1,7 +1,7 @@
-# Welcome to My GitHub Profile! 👨‍💻
+# Welcome to My GitHub Profile!👨‍💻
 
 ## About Me
-I'm a passionate **Application Developer** and **Software Engineer** with a strong interest in building scalable, efficient applications. I'm actively seeking **Information Technology** roles where I can contribute my skills and grow professionally.
+I'm a passionate **App Developer** and **Software Engineer** with a strong interest in building a scalable and efficient applications. I'm actively seeking  for an **Information Technology** roles where I can contribute my skills and grow professionally.
 
 **Location:** Nagercoil, Tamil Nadu
 **Email:** [ashwindino66@gmail.com]
@@ -33,7 +33,6 @@ I'm a passionate **Application Developer** and **Software Engineer** with a stro
 
 ## 📚 Currently Learning
 - Advanced Spring Boot, Flutter & Microservices
-- Docker & Kubernetes containerization
 - Cloud Platforms (AWS/Azure)
 - Design Patterns
 
